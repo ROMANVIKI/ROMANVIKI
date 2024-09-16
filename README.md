@@ -38,21 +38,21 @@
 
 ### 🏆 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vikraman&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ROMANVIKI&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikraman&theme=radical" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ROMANVIKI&theme=radical" alt="GitHub Streak Stats" />
 </p>
 
 ### 🔍 Check out my latest projects:
-- **[Social Media App](https://github.com/vikraman/social-media-app)** – A full-stack social media application built with React and Django.
-- **[Subtitle Generator](https://github.com/vikraman/subtitle-generator)** – A website to provide subtitles using Next.js and Django.
-- **[IT Training Platform](https://github.com/vikraman/it-training-platform)** – A web application for SQL training and placements.
+- **[Social Media App](https://github.com/ROMANVIKI/vchat)** – A full-stack social media application built with React and Django.
+- **[Subtitle Generator](https://github.com/ROMANVIKI/submaster)** – A website to provide subtitles using Next.js and Django.
+- **[IT Training Platform](https://github.com/ROMANVIKI/quantum_step)** – A web application for SQL training and placements.
 
 ### 📫 How to reach me:
-- LinkedIn: [linkedin.com/in/vikraman](https://www.linkedin.com/in/vikraman)
-- Email: youremail@example.com
+- LinkedIn: [linkedin.com/in/vikraman](https://www.linkedin.com/in/vikraman-m-4067b5252)
+- Email: vikramanm.py@example.com
 
 ---
 
