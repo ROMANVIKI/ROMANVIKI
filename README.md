@@ -61,13 +61,18 @@
 - Quantum computing-related projects.
 - Exciting job opportunities in web development.
 
+---
 
 ### 📊 My GitHub Contributions
 
 Check out my GitHub contribution graph below and see my daily activity:
 ![GitHub Contribution Graph](https://github.com/ROMANVIKI)
 
+---
+
 ![Vikraman's GitHub Commit History](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ROMANVIKI&theme=default)
+
+---
 
 [Check out my GitHub Skyline](https://skyline.github.com/ROMANVIKI)
 
