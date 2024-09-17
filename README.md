@@ -2,7 +2,7 @@
 <h3 align="center">A passionate self-taught Full Stack Developer</h3>
 
 <p align="center">
-  <a href="https://github.com/vikraman" target="_blank">
+  <a href="https://github.com/ROMANVIKI" target="_blank">
     <img src="https://img.shields.io/github/followers/vikraman?label=Follow&style=social" />
   </a>
   <a href="mailto:youremail@example.com" target="_blank">
@@ -71,8 +71,3 @@ Check out my GitHub contribution graph below and see my daily activity:
 ---
 
 ![Vikraman's GitHub Commit History](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ROMANVIKI&theme=default)
-
----
-
-[Check out my GitHub Skyline](https://skyline.github.com/ROMANVIKI)
-
