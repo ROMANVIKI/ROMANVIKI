@@ -5,7 +5,7 @@
   <a href="https://github.com/ROMANVIKI" target="_blank">
     <img src="https://img.shields.io/github/followers/vikraman?label=Follow&style=social" />
   </a>
-  <a href="mailto:youremail@example.com" target="_blank">
+  <a href="mailto:vikramanm.py@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-me-red" />
   </a>
 </p>
