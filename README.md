@@ -52,7 +52,7 @@
 
 ### 📫 How to reach me:
 - LinkedIn: [linkedin.com/in/vikraman](https://www.linkedin.com/in/vikraman-m-4067b5252)
-- Email: vikramanm.py@example.com
+- Email: vikramanm.py@gmail.com
 
 ---
 
